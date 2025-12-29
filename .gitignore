@@ -1,7 +1,7 @@
 # Bundler cache
 .bundle
 vendor
-Gemfile.lock
+# Gemfile.lock (Commit this for consistent builds in GitHub Actions)
 
 # Jekyll cache
 .jekyll-cache
